@@ -1,0 +1,7 @@
+#Sun Oct 07 15:52:46 IST 2018
+base.0=/home/urvi/project/app/build/intermediates/transforms/dexMerger/debug/11
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/urvi/project/app/build/intermediates/transforms/dexMerger/debug/11

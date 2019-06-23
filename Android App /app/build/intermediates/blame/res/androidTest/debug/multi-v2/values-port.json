@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/urvi/project/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/urvi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/530ceeaff13784a1e1bd4a6d8e3b0819/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
